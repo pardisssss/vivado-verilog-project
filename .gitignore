@@ -1,0 +1,10 @@
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.bit
+*.log
+*.jou
+.vscode/
